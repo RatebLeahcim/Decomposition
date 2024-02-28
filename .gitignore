@@ -58,7 +58,7 @@ Decomposition/Build/*/**
 Decomposition/!Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+Decomposition/!Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -72,3 +72,11 @@ Decomposition/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Decomposition/DerivedDataCache/*
+
+# FMOD plugin files and assets
+Decomposition/Plugins/FMODStudio/
+
+# Exclude compiled files
+*.dll
+*.lib
+*.pdb
