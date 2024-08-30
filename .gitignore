@@ -73,8 +73,19 @@ Decomposition/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 Decomposition/DerivedDataCache/*
 
-# FMOD plugin files and assets
-Decomposition/Plugins/FMODStudio/
+# Never ignore DLLs in the FMOD subfolder.
+!DecompositionFMOD/**/lib/*
+
+# Ignore the Cache folder since it is updated locally.
+/DecompositionFMOD/FMOD/Cache/*
+
+# Ignore bank files in the StreamingAssets folder.
+/Decomposition/Content/FMOD/StreamingAssets/**/*.bank
+/Decomposition/Content/FMOD/StreamingAssets/**/*.bank.meta
+
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+# Log files can be ignored.
+fmod_editor.log
 
 # Exclude compiled files
 *.dll
