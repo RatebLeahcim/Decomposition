@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{cbec569a-53b8-4e13-acef-5ec7ab77a9a0}">
+		<property name="name">
+			<value>Lvl1RumRunner</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ad2655b4-1efc-417c-8cad-2c862eda6f01}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2def9e4d-67ea-4595-987d-b835f4e10ed5}">
+		<property name="assetPath">
+			<value>181568__kingsrow__getting-out-of-car.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.502743764172335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{044f5715-4326-4ce1-90bc-91fadaaf1aeb}</destination>
+		</relationship>
+	</object>
+</objects>
