@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\datatable.generated.h",
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodbanklookup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
