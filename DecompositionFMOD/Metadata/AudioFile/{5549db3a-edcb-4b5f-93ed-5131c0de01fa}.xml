@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5549db3a-edcb-4b5f-93ed-5131c0de01fa}">
+		<property name="assetPath">
+			<value>DoorOpen/SlowCreak2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2990833333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{044f5715-4326-4ce1-90bc-91fadaaf1aeb}</destination>
+		</relationship>
+	</object>
+</objects>
