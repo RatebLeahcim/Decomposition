@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Jake\Documents\Github_Repos\Decomposition\Decomposition\Intermediate\Build\Win64\x64\DecompositionEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Jake\Documents\Github_Repos\Decomposition\Decomposition\Plugins\FMOD\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Module.FMODStudioNiagara.cpp.obj"
+"D:\Jake\Documents\Github_Repos\Decomposition\Decomposition\Plugins\FMOD\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Default.rc2.res"
+/OUT:"D:\Jake\Documents\Github_Repos\Decomposition\Decomposition\Plugins\FMOD\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\UnrealEditor-FMODStudioNiagara.lib"

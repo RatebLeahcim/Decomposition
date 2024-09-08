@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\private\\fmodbus.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\classes\\fmodbus.h",
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodbus.generated.h",
+            "d:\\jake\\documents\\github_repos\\decomposition\\decomposition\\plugins\\fmod\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
