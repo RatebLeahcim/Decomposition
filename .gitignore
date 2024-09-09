@@ -82,6 +82,9 @@ Decomposition/DerivedDataCache/*
 # Ignore the Cache folder since it is updated locally.
 /DecompositionFMOD/FMOD/Cache/*
 
+# Ignore plugin Intermediates
+/Decomposition/Plugins/**/Intermediate/*
+
 # Ignore bank files in the StreamingAssets folder.
 /Decomposition/Content/FMOD/StreamingAssets/**/*.bank
 /Decomposition/Content/FMOD/StreamingAssets/**/*.bank.meta
