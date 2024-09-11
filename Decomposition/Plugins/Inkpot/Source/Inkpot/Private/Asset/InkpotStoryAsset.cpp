@@ -54,11 +54,11 @@ void UInkpotStoryAsset::PostInitProperties()
 #endif
 
 #if WITH_EDITOR
-void UInkpotStoryAsset::GetAssetRegistryTags( FAssetRegistryTagsContext InContext ) const
+void UInkpotStoryAsset::GetAssetRegistryTags( TArray<FAssetRegistryTag>& InContext ) const
 {
 	if (AssetImportData)
 	{
-		InContext.AddTag( FAssetRegistryTag(SourceFileTagName(), AssetImportData->GetSourceData().ToJson(), FAssetRegistryTag::TT_Hidden) );
+		InContext.Add( FAssetRegistryTag(SourceFileTagName(), AssetImportData->GetSourceData().ToJson(), FAssetRegistryTag::TT_Hidden) );
 	}
 	Super::GetAssetRegistryTags( InContext );
 }
