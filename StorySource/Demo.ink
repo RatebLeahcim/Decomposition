@@ -33,3 +33,6 @@ Bring me a body... -> DONE
 
 == returned ==
 Ah... you've brought me what I asked for... -> END
+
+== pickUp ( Item ) ==
+I picked up the {Item} -> DONE
