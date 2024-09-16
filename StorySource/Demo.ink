@@ -1,5 +1,6 @@
 VAR visited = false
 VAR refusedOffer = false
+VAR hasBody = false
 
 -> main
 
@@ -12,8 +13,10 @@ VAR refusedOffer = false
         -> refused
     + Alright, brb 
         -> agreed
-- (visited and not refusedOffer):
+- (visited and not refusedOffer and hasBody):
     -> returned
+- (visited and not refusedOffer and not hasBody):
+    -> returnedNoBody
 - (visited and refusedOffer):
     Begone betrayer. I will not speak to you. -> DONE
 }
@@ -24,6 +27,9 @@ You are a fool... -> END
 
 == agreed ==
 I await your return... -> DONE
+
+== returnedNoBody ==
+Bring me a body... -> DONE
 
 == returned ==
 Ah... you've brought me what I asked for... -> END
