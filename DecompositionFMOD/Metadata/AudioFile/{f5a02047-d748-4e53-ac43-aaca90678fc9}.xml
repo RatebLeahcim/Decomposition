@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f5a02047-d748-4e53-ac43-aaca90678fc9}">
+		<property name="assetPath">
+			<value>PoppingNoisesUnassigned/Edison_Knuckle_Pop02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.18671201814058958</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{044f5715-4326-4ce1-90bc-91fadaaf1aeb}</destination>
+		</relationship>
+	</object>
+</objects>
