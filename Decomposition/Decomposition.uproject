@@ -18,6 +18,10 @@
 		{
 			"Name": "FMODStudioNiagara",
 			"Enabled": true
+		},
+		{
+			"Name": "Inkpot",
+			"Enabled": true
 		}
 	]
 }
