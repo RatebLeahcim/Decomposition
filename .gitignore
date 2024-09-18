@@ -76,8 +76,11 @@ Decomposition/DerivedDataCache/*
 # Never ignore DLLs in the FMOD subfolder.
 !DecompositionFMOD/**/lib/*
 
-# Never ignore DLLs in the plugins folder
-!Decomposition/Plugins/**/Binaries/**/*
+# Never ignore libraries in the plugins folder
+!Decomposition/Plugins/**/*.dll
+!Decomposition/Plugins/**/*.lib
+!Decomposition/Plugins/**/*.pdb
+!Decomposition/Plugins/**/*.exe
 
 # Ignore the Cache folder since it is updated locally.
 /DecompositionFMOD/FMOD/Cache/*
