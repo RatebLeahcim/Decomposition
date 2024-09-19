@@ -45,9 +45,9 @@ My brother and I used to play chess on this counter when we were kids. -> DONE
 == barrels ==
 The wood is rotting. -> DONE
 
-== door ( State ) ==
+== door ( Locked ) ==
 {
-- State:
+- Locked:
     Locked? Last time I was here there wasn’t a door...
 - else:
     (Sigh) Oh boy...
