@@ -95,3 +95,18 @@ Decomposition/DerivedDataCache/*
 # If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
 # Log files can be ignored.
 fmod_editor.log
+
+# Ignore editor DLLs - will need to be recompiled the first time someone pulls
+/Decomposition/Plugins/FMOD/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll
+/Decomposition/Plugins/FMOD/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.pdb
+/Decomposition/Plugins/FMOD/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll
+/Decomposition/Plugins/FMOD/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.pdb
+/Decomposition/Plugins/FMOD/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara.dll
+/Decomposition/Plugins/FMOD/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara.pdb
+
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-InkPlusPlus.dll
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-InkPlusPlus.pdb
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-Inkpot.dll
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-Inkpot.pdb
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-InkpotEditor.dll
+/Decomposition/Plugins/Inkpot/Binaries/Win64/UnrealEditor-InkpotEditor.pdb
