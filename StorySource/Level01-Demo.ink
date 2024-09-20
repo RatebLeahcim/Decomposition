@@ -37,7 +37,7 @@ Bottle’s empty... Probably for the best. -> DONE
 There’s fluid in this bottle. It’s black and moves like mud.  -> DONE
 
 == wallBottles ==
-The glass on these bottles looks like wax. Are this even real? -> DONE
+The glass on these bottles looks like wax. Are these even real? -> DONE
 
 == atBarCounter ==
 My brother and I used to play chess on this counter when we were kids. -> DONE
