@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{227eaf2a-044a-4307-9047-16b0855e6c11}">
+		<property name="assetPath">
+			<value>Walking/FootStep3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.51925170068027215</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{044f5715-4326-4ce1-90bc-91fadaaf1aeb}</destination>
+		</relationship>
+	</object>
+</objects>
